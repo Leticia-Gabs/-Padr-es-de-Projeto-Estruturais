@@ -1,4 +1,4 @@
- Padrões de Projeto Estruturais em Python
+ *Padrões de Projeto Estruturais em Python*
 
 Este repositório apresenta exemplos de implementação de padrões de projeto estruturais utilizando a linguagem Python.
 
